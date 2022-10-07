@@ -11,7 +11,8 @@ import SwiftUI
 struct UIDesigningSampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ToolbarView()
+           // ToolbarView()
+            ContentView()
         }
     }
 }
